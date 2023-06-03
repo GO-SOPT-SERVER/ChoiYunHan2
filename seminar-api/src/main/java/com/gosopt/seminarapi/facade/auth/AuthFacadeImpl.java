@@ -6,6 +6,7 @@ import com.gosopt.seminarapi.presentation.auth.response.LoginResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
+@Service
 @RequiredArgsConstructor
 public class AuthFacadeImpl implements AuthFacade{
 

@@ -40,5 +40,8 @@ bin/
 
 application-aws.yml
 
+*.yml
+*.xml
+
 ### Mac OS ###
 .DS_Store

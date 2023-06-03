@@ -2,6 +2,8 @@ server:
   port: 10000
 
 spring:
+  main:
+    allow-bean-definition-overriding: true
   config:
     import: application-aws.yml, application-oauth.yml
 

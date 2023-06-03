@@ -26,40 +26,6 @@ subprojects {
 		mavenCentral()
 	}
 
-	dependencies {
-		// security
-		implementation 'org.springframework.boot:spring-boot-starter-security'
-		implementation 'org.springframework.security:spring-security-test'
-
-
-		implementation 'org.springframework.boot:spring-boot-starter-web'
-		implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
-		compileOnly 'org.projectlombok:lombok'
-		annotationProcessor 'org.projectlombok:lombok'
-		testImplementation 'org.springframework.boot:spring-boot-starter-test'
-
-		// S3 AWS
-		implementation group: 'org.springframework.cloud', name: 'spring-cloud-starter-aws', version: '2.2.6.RELEASE'
-
-		/* JWT */
-		implementation group: 'io.jsonwebtoken', name: 'jjwt-api', version: '0.11.2'
-		implementation group: 'io.jsonwebtoken', name: 'jjwt-impl', version: '0.11.2'
-		implementation group: 'io.jsonwebtoken', name: 'jjwt-jackson', version: '0.11.2'
-
-		runtimeOnly  'com.h2database:h2'
-	}
-
-	tasks.named('test') {
-		useJUnitPlatform()
-	}
-}
-
-project(':seminar-api') {
-	bootJar { enabled = true }
-	jar { enabled = false }
-	dependencies {
-		implementation project(path: ':seminar-domain')
-	}
 }
 
 repositories {

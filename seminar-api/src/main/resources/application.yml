@@ -1,5 +1,5 @@
 server:
-  port: 20001
+  port: 20000
 spring:
   config:
-    import: application-aws.yml
+    import: application-aws.yml, application-oauth.yml
