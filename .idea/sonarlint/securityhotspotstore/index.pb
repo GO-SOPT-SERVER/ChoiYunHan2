@@ -23,8 +23,6 @@ Yseminar-api/src/main/java/com/gosopt/seminarapi/presentation/member/MemberContr
 Sseminar-domain/src/main/java/com/gosopt/seminardomain/domain/board/BoardEntity.java,c/7/c7c4cc7a80c7a49fff475dd11339e08a0c501d1e
 é
 ^seminar-api/src/main/java/com/gosopt/seminarapi/presentation/board/response/BoardResponse.java,1/a/1a5fed3eeea98183286e6945513f2d7a6b0e5be6
-ç
-]seminar-api/src/main/java/com/gosopt/seminarapi/presentation/auth/response/LoginResponse.java,e/c/ece107dd0a45ff138f746f33d6324bcc7b4f43bb
 É
 Sseminar-domain/src/main/java/com/gosopt/seminardomain/domain/image/ImageEntity.java,a/a/aa4e2c85bb9c6d59d76c27bed1ae1d63d8421452
 Ö

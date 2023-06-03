@@ -19,8 +19,6 @@ Useminar-api/src/main/java/com/gosopt/seminarapi/presentation/auth/AuthControlle
 Yseminar-api/src/main/java/com/gosopt/seminarapi/presentation/member/MemberController.java,4/8/48215eef7ae9740f2ebeb4ada4aa9b7bd0b52ba2
 é
 ^seminar-api/src/main/java/com/gosopt/seminarapi/presentation/member/HealthCheckController.java,9/9/999ccf09452506c0479a1463b571623020592790
-ç
-]seminar-api/src/main/java/com/gosopt/seminarapi/presentation/auth/response/LoginResponse.java,e/c/ece107dd0a45ff138f746f33d6324bcc7b4f43bb
 É
 Sseminar-domain/src/main/java/com/gosopt/seminardomain/domain/board/BoardEntity.java,c/7/c7c4cc7a80c7a49fff475dd11339e08a0c501d1e
 É

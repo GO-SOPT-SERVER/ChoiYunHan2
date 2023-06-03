@@ -5,32 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2ed3068-6d3c-45b7-b710-ee9802732d76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/board/response/BoardGetResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/member/HealthCheckController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ece107dd0a45ff138f746f33d6324bcc7b4f43bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/c/ece107dd0a45ff138f746f33d6324bcc7b4f43bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/ApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/ApiApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/facade/auth/AuthFacadeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/facade/auth/AuthFacadeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/facade/board/BoardFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/facade/board/BoardFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/facade/board/BoardFacadeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/facade/board/BoardFacadeImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/infrastructure/aws/S3Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/infrastructure/aws/S3Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/auth/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/auth/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/board/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/board/BoardController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/member/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/member/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/resources/application-aws.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-domain/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-domain/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-domain/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-domain/src/main/java/com/gosopt/seminardomain/DomainApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-domain/src/main/java/com/gosopt/seminardomain/global/common/exception/common/BaseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-domain/src/main/java/com/gosopt/seminardomain/global/common/exception/common/BaseException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-domain/src/main/java/com/gosopt/seminardomain/global/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-domain/src/main/java/com/gosopt/seminardomain/global/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-domain/src/main/resources/application-oauth.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar-domain/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-domain/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/ApiControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-api/src/main/java/com/gosopt/seminarapi/presentation/ApiControllerAdvice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +89,14 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="week7" />
+                    <option name="lastUsedInstant" value="1685773092" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="practice" />
+                    <option name="lastUsedInstant" value="1685768039" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="develop" />
                     <option name="lastUsedInstant" value="1685446432" />
                   </RecentBranch>
@@ -133,29 +121,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;91d47883e3a22803fcdaa5f5082f89ec&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "week7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "91d47883e3a22803fcdaa5f5082f89ec",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Spring Boot.ApiApplication">
     <configuration name="gosoptseminar:seminar-api [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -210,7 +198,7 @@
       <workItem from="1685543346390" duration="4239000" />
       <workItem from="1685672928657" duration="4352000" />
       <workItem from="1685688311511" duration="6876000" />
-      <workItem from="1685767893183" duration="113000" />
+      <workItem from="1685767893183" duration="1874000" />
     </task>
     <servers />
   </component>
